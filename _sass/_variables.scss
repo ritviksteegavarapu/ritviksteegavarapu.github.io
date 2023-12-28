@@ -23,12 +23,13 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
+$palatino                   : Palatino, serif;
 $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
+$global-font-family         : $palatino;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
@@ -48,16 +49,17 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
 $gray                       : #7a8288;
+$pastelblue                 : #A7C7E7;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #fff;
+$background-color           : $darker-gray;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : #fff;
 $border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
@@ -74,9 +76,11 @@ $flickr-color               : #ff0084;
 $foursquare-color           : #0072b1;
 $github-color               : #171516;
 $google-plus-color          : #dd4b39;
+$google-scholar-color       : #FF7F7F;
 $instagram-color            : #517fa4;
 $lastfm-color               : #d51007;
 $linkedin-color             : #007bb6;
+$orcid-color                : #a6ce39;
 $pinterest-color            : #cb2027;
 $rss-color                  : #fa9b39;
 $soundcloud-color           : #ff3300;
@@ -90,10 +94,10 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : #00A36C;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
+$masthead-link-color        : #fff;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 
