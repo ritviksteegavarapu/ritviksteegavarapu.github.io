@@ -1,15 +1,11 @@
 ---
 title: "Classification of Artificial and Real Objects Using Faster Region-Based Convolutional Neural Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: '.'
+permalink: /publication/rcnn
+excerpt: 'This publication was based on work conducted at the FAU Research Park, in which I tested the effectiveness of various faster region-based convolutional neural networks (among other architectures) in classifying artificial and real leaves. '
 date: 2021-12-15
 venue: '2021 IEEE Symposium Series on Computational Intelligence (SSCI)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9660105'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+'R. S. Teegavarapu and D. Biswas, "Classification of Artificial and Real Objects Using Faster Region-Based Convolutional Neural Networks," 2021 IEEE Symposium Series on Computational Intelligence (SSCI), Orlando, FL, USA, 2021, pp. 1-7, doi: 10.1109/SSCI50451.2021.9660105.'

@@ -8,6 +8,6 @@ date: 2024-04-01
 location: 
 ---
 
-This is a core class required for all incoming freshman (~225) that introduces students to proof-based mathematics via the lens of real analysis. In this class, we covered real numbers, sequences and series, continuity, limits, derivatives, integrals, and assorted topics while ensuring students thought critically when writing proofs out.
+This is an introductory class that discusses the introductory methods of computational science and engineering. In this class, we did a high-level overview of numerical methods for solving ODEs and PDEs, numerical linear algebra, optimization, uncertainty quantification, and function approximation. 
 
-I was responsible for leading office hours weekly, hosting a recitation section in which content from the previous lectures were reviewed, as well as grading. Overall, I got a ?/5.00 score in my evaluations as a TA. 
+I was responsible for re-writing the problem sets for this class with the assistance of the post-doctoral scholar, attending lectures to help students in-person, as well as hosting weekly office hours. Overall, I got a ?/5.00 score in my evaluations as a TA. 
